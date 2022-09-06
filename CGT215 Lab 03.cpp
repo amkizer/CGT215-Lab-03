@@ -1,3 +1,6 @@
+// CGT215 Lab 03.cpp
+// Written by Austin Kizer 9/6/2022
+
 #include <iostream>
 
 using namespace std;
